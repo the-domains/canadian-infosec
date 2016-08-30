@@ -1,4 +1,3 @@
-layout_spectrum: 0.1708963520359248
 typography_spectrum: 0.22723199031315744
 color:
   brandStrength: 0.7988872497808188
@@ -11,4 +10,6 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.1708963520359248
 name: CANADIAN INFOSEC
+title: fsfsfs
